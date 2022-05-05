@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title('loan')
+st.title('Your Helpful Loan Application Assistant')
