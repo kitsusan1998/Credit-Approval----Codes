@@ -79,5 +79,5 @@ def main(model):
 
 
 if __name__ == '__main__':
-    model = joblib.load('/Users/susanwu/Downloads/log(1).model')
+    model = joblib.load('./log(1).model')
     main(model)
