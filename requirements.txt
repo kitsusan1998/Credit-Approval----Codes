@@ -2,7 +2,7 @@ joblib
 pandas
 numpy
 sklearn
-MultiPage
+multiPage
 form
 result
 global_var
