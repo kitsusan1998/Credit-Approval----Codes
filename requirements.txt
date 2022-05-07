@@ -2,7 +2,7 @@ joblib
 pandas
 numpy
 sklearn
-streamlit_multipage
+multipage
 form
 result
 
