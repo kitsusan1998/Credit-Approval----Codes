@@ -1,5 +1,5 @@
 import streamlit as st
-from multipage import MultiPage
+from streamlit_multipage import MultiPage
 import form
 import result
 import global_var
