@@ -5,4 +5,4 @@ sklearn
 streamlit_multipage
 form
 result
-global_var
+
